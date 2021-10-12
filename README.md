@@ -1,4 +1,4 @@
-# goat
+# Goat
 
 Goat is short for Game Object Appliance Toolkit.
 
